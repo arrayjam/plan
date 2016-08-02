@@ -1,30 +1,12 @@
-aoietnarot
 --- 03-08-16 ---
 
+* alias np='vim +"execute \"normal! Go--- $(date '+%d-%m-%y') ---\<cr>\<cr>\"" ~/.plan && pushd $(dirname $(readlink ~/.plan)) >/dev/null && git add . && git commit -m "$(date)" && git push origin 2>&1 > ~/plan-push.log; popd>/dev/null'
 
---- 03-08-16 ---
+* alias p='vim +"execute \"normal! Go\"" ~/.plan && pushd $(dirname $(readlink ~/.plan)) >/dev/null && git add . && git commit -m "$(date)" && git push origin 2>&1 > ~/plan-push.log; popd>/dev/null'
 
+* learned about vim's normal/normal! command and execute "normal! ggDGihaha\<esc>"
 
---- 03-08-16 ---
+* tmutils restore: tmutil restore -v /Volumes/Time\ Machine\ Backups/Backups.backupdb/Monyafeek/2016-08-02-141506/Macintosh\ HD/Users/arrayjam/.vimrc ~/.vimrc
 
-
---- 03-08-16 ---
-
-
---- 03-08-16 ---
-
-
---- 03-08-16 ---
-
-
---- 03-08-16 ---
-
-
---- 03-08-16 ---
-
-
---- 03-08-16 ---
-
-
-yep
+idea: nearby.yuri.io written in scheme? parse json into geojson... figure out nearest object detection, maybe even write webserver?
 
