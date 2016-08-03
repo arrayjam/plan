@@ -16,24 +16,23 @@ idea: nearby.yuri.io written in scheme? parse json into geojson... figure out ne
 
 * Put this on a server with private gpg blocks and a private key, but passphrased
 
-
-
+--- 03-08-16 ---
 
 -----BEGIN PGP MESSAGE-----
 
-hQIMAwAAAAAAAAAAARAAkl43ftZyHaxPd2ynRU7IZDL/hOBkgl5cyF26tTtEvUrI
-bQEO/DFDhpFV1IpjzgIM7oez1WbqwpTiSl5ClUcQ48SlJTWLYrPOujzvlhvMVgx3
-WOtgSTlvSBp/EN5PRppDUAQepS+MS40PvPTqJ2dxU3WvErMJy+WPD4KrLl6BVQMS
-HhtqniL5Ids/iTUsr4dZqCwqV8F3xxdMgUKLaVbc0axykzRuGCfjMMzw7E/5q+iL
-NbXSTA1/CBFzDaAcJ5G5d0zUryeyXJ0BoCjtKMvh6uBqOtjjuhnFICivsWtbOh9g
-NS3tLQNUzD4uk6KKTkcrIDxUrozKdtErig5qAXhH/ptAwSDoN9W+1EVNphtSLLMg
-hWBmHaEy9X4b+K35gIEgJxF2cF8cjOH7+kM3oyL1yN7k0zRgbhywJCIg6S+T9MK8
-oFxHsiOyRizIihKKmWWql292O2e/h3fgPKFofqUFsiMa0HJbnXG2/HYgvL4tGjiy
-V2Bup068+gnteyBdrGhvs3lOm1rU4vPT2A1lr0sf/qPIjnSeGJTf1K/MThLuLNZC
-F1CiARw+ho4Le2fg8ab7dIva/Bh0pGhpk7nknyMhVidks9Ecl7uN5+obUAOx9oIA
-DnLu3IXZ4zrS+gCQLf1oxePRZMYP2pct0ADyRD32/4puWxxMSLIOxsdQbM8wdjfS
-QQHnSEQer0iYQF6VsQAtZe/HR99g3G4grfJusxVKzlB9F9sN2cRJlkM5TQf2YUzS
-yzhUmSPh7lF0T3QazYCGjPa1
-=UETj
+hQIMAwAAAAAAAAAAAQ/7BkmeXsuxfPmec8FF1Hszpjr6A8nLuDIWYqpIAqsaU4fi
+ujd+sIu0s13KVNdUwVPBlX4TvO66CfmaNE5p+jrOIjxLZmCvAbDVAeiTviJqYtGy
+xAiAc0E2xNBU+OEn8rYkBnMc4XV2K6oqWzG7j7/HEJF5WHdSHUOY7wciNnZhjJf8
+wRzbKJLJ5EDnJxtTTCwJUwSeZ30CsucAZClLg++wNLI32nXTXgdeBGiMCkh+9U3N
+3qstpbC7s6EVEJtr5W1bdB3x/YPiLo5l1KImZbwUjWRD/4b5wuOvWKRDHy+GlDzC
+3yzbFkTUVAuADmCJ98fAjGrNUvRsynEZDaU2uEUhSW41VL0KAjkfuQgw8rURE37R
+sxHFIw1ArCZOveJ8MZeVnZ/5hf1QFRZT0fPov6RheUomv8rUCubUf8xXEsOs/Wep
+ED5OgmZPd0l9Jb6dg7Pb7G72Oa3pUEK1uPHHc4FA4rPLHi7QYl7bXip0mwzAH3v0
+/Zl9DTAvEEmHryjmhkxh8iQiXHrSCbcUr+e6I7yC5v/H+CpWJSFdzHfuRmeA8y2/
+AICPXKFpqLySTI6czHEFhkQD5eflHBr/AJKNVG7OvcIWWcw4rJDmDi4bIfyABxie
+DGCCZee3Osy2wUBJ8e9hQlKW55imklfYiTusNHbaZS9jfNyXTH4lwaW7DpevbL7S
+QgG7M3Rg8BSK/lZMredYGEAhtZNmpREUauFJHbv4kVTztTJbuAaWBnSNkztVTn3t
+bFJ1AMtFKBV4VV3ve3EjYscAgw==
+=CO5M
 -----END PGP MESSAGE-----
 
