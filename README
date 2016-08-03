@@ -10,18 +10,30 @@
 
 idea: nearby.yuri.io written in scheme? parse json into geojson... figure out nearest object detection, maybe even write webserver?
 
-
-
 --- 03-08-16 ---
 
+* Apache ProxyPass and ProxyPassReverse
 
---- 03-08-16 ---
-
-
---- 03-08-16 ---
+* Put this on a server with private gpg blocks and a private key, but passphrased
 
 
-derp
---- 03-08-16 ---
 
+
+-----BEGIN PGP MESSAGE-----
+
+hQIMAwAAAAAAAAAAARAAkl43ftZyHaxPd2ynRU7IZDL/hOBkgl5cyF26tTtEvUrI
+bQEO/DFDhpFV1IpjzgIM7oez1WbqwpTiSl5ClUcQ48SlJTWLYrPOujzvlhvMVgx3
+WOtgSTlvSBp/EN5PRppDUAQepS+MS40PvPTqJ2dxU3WvErMJy+WPD4KrLl6BVQMS
+HhtqniL5Ids/iTUsr4dZqCwqV8F3xxdMgUKLaVbc0axykzRuGCfjMMzw7E/5q+iL
+NbXSTA1/CBFzDaAcJ5G5d0zUryeyXJ0BoCjtKMvh6uBqOtjjuhnFICivsWtbOh9g
+NS3tLQNUzD4uk6KKTkcrIDxUrozKdtErig5qAXhH/ptAwSDoN9W+1EVNphtSLLMg
+hWBmHaEy9X4b+K35gIEgJxF2cF8cjOH7+kM3oyL1yN7k0zRgbhywJCIg6S+T9MK8
+oFxHsiOyRizIihKKmWWql292O2e/h3fgPKFofqUFsiMa0HJbnXG2/HYgvL4tGjiy
+V2Bup068+gnteyBdrGhvs3lOm1rU4vPT2A1lr0sf/qPIjnSeGJTf1K/MThLuLNZC
+F1CiARw+ho4Le2fg8ab7dIva/Bh0pGhpk7nknyMhVidks9Ecl7uN5+obUAOx9oIA
+DnLu3IXZ4zrS+gCQLf1oxePRZMYP2pct0ADyRD32/4puWxxMSLIOxsdQbM8wdjfS
+QQHnSEQer0iYQF6VsQAtZe/HR99g3G4grfJusxVKzlB9F9sN2cRJlkM5TQf2YUzS
+yzhUmSPh7lF0T3QazYCGjPa1
+=UETj
+-----END PGP MESSAGE-----
 
