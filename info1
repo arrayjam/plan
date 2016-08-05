@@ -1,0 +1,68 @@
+:public key packet:
+	version 4, algo 1, created 1470215684, expires 0
+	pkey[0]: [4096 bits]
+	pkey[1]: [17 bits]
+	keyid: 77A0CEEFC63C8F74
+:user ID packet: ".plan <plan@email>"
+:signature packet: algo 1, keyid 77A0CEEFC63C8F74
+	version 4, created 1470215684, md5len 0, sigclass 0x13
+	digest algo 8, begin of digest be d3
+	hashed subpkt 2 len 4 (sig created 2016-08-03)
+	hashed subpkt 27 len 1 (key flags: 03)
+	hashed subpkt 11 len 6 (pref-sym-algos: 9 8 7 3 2 1)
+	hashed subpkt 21 len 5 (pref-hash-algos: 8 2 9 10 11)
+	hashed subpkt 22 len 3 (pref-zip-algos: 2 3 1)
+	hashed subpkt 30 len 1 (features: 01)
+	hashed subpkt 23 len 1 (key server preferences: 80)
+	subpkt 16 len 8 (issuer key ID 77A0CEEFC63C8F74)
+	data: [4095 bits]
+:public sub key packet:
+	version 4, algo 1, created 1470215684, expires 0
+	pkey[0]: [4096 bits]
+	pkey[1]: [17 bits]
+	keyid: 1EA22EE3424E6037
+:signature packet: algo 1, keyid 77A0CEEFC63C8F74
+	version 4, created 1470215684, md5len 0, sigclass 0x18
+	digest algo 8, begin of digest 32 e4
+	hashed subpkt 2 len 4 (sig created 2016-08-03)
+	hashed subpkt 27 len 1 (key flags: 0C)
+	subpkt 16 len 8 (issuer key ID 77A0CEEFC63C8F74)
+	data: [4091 bits]
+:secret key packet:
+	version 4, algo 1, created 1470215684, expires 0
+	skey[0]: [4096 bits]
+	skey[1]: [17 bits]
+	iter+salt S2K, algo: 3, SHA1 protection, hash: 2, salt: 9dda8dc7a719b2e6
+	protect count: 24117248 (231)
+	protect IV:  c7 fa ee a1 bb 0f 42 bb
+	encrypted stuff follows
+	keyid: 77A0CEEFC63C8F74
+:user ID packet: ".plan <plan@email>"
+:signature packet: algo 1, keyid 77A0CEEFC63C8F74
+	version 4, created 1470215684, md5len 0, sigclass 0x13
+	digest algo 8, begin of digest be d3
+	hashed subpkt 2 len 4 (sig created 2016-08-03)
+	hashed subpkt 27 len 1 (key flags: 03)
+	hashed subpkt 11 len 6 (pref-sym-algos: 9 8 7 3 2 1)
+	hashed subpkt 21 len 5 (pref-hash-algos: 8 2 9 10 11)
+	hashed subpkt 22 len 3 (pref-zip-algos: 2 3 1)
+	hashed subpkt 30 len 1 (features: 01)
+	hashed subpkt 23 len 1 (key server preferences: 80)
+	subpkt 16 len 8 (issuer key ID 77A0CEEFC63C8F74)
+	data: [4095 bits]
+:secret sub key packet:
+	version 4, algo 1, created 1470215684, expires 0
+	skey[0]: [4096 bits]
+	skey[1]: [17 bits]
+	iter+salt S2K, algo: 3, SHA1 protection, hash: 2, salt: 9dda8dc7a719b2e6
+	protect count: 24117248 (231)
+	protect IV:  ec ce 32 10 0c b1 cb cd
+	encrypted stuff follows
+	keyid: 1EA22EE3424E6037
+:signature packet: algo 1, keyid 77A0CEEFC63C8F74
+	version 4, created 1470215684, md5len 0, sigclass 0x18
+	digest algo 8, begin of digest 32 e4
+	hashed subpkt 2 len 4 (sig created 2016-08-03)
+	hashed subpkt 27 len 1 (key flags: 0C)
+	subpkt 16 len 8 (issuer key ID 77A0CEEFC63C8F74)
+	data: [4091 bits]
