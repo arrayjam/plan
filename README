@@ -84,3 +84,18 @@ S9vJR0CnN46RTR400+l5HfXhOw==
 -----END PGP MESSAGE-----
 
 * Learning more about Typescript
+
+* Starting on jsly.
+
+* Can't use mouseover events in blessed over tmux.
+
+* Augmented some types, only use explicit style options in Element.
+
+* Possibly contribute back blessings/index.d.ts if it gets a lot of modifications.
+
+* Try and use default blessing and Typescript for jsly, but think about bringing in react-blessing and hot reloading.
+
+* First sketch out possible user actions and UI, just to get an idea of requirements
+
+* Create simple JSON viewer as proof-of-concept
+
